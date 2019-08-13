@@ -60,3 +60,4 @@ for zt, frame_row in zip(ZT, frames):
             frame.load_stylesheet('isosurface.sty')
 
 tp.save_png('hotwater-grid-stylesheet.png')
+
