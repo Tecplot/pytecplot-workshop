@@ -2,7 +2,6 @@ import atexit
 import glob
 import os
 import multiprocessing
-import sys
 
 import tecplot as tp
 
